@@ -1,2 +1,3 @@
 # Stock-price
-Stock Price Using LSTM
+Stock Price Using Deep learning
+1. LSTM
